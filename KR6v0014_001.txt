@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:08.125930
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:06
 #+TITLE: 大方廣華嚴十惡品經
 #+PROPERTY: CBETA_ID W01n0013
 #+PROPERTY: ID KR6v0014
@@ -11,7 +11,7 @@
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 題解¶
 整理者　徐紹強¶
 ¶
 
@@ -56,7 +56,7 @@
 <pb:KR6v0014_W_001-0360a>¶限，此次未能參校。¶
 ¶
 
-錄文¶
+* 錄文¶
 ¶
 
  大方廣華嚴十惡品經¶
